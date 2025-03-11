@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'digame el valor de la compra'
+5
+1
+2
+vl
+7
+0
+1
+8
+vl>18000
+6
+1
+2
+tp
+8
+vl+20000
+4
+1
+41
+'Señor usuario debe pagar un total de',tp
+13
+4
+1
+14
+'envio gratis'
+13
+1

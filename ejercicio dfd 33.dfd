@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+126
+'señor usuario digite el valor de los guantes de futbol adquiridos y se le hara un descuento si estan aprobados para el mismo'
+5
+1
+1
+v
+7
+0
+1
+9
+v>=150000
+4
+1
+46
+'no aplica el descuento gracias por su compra'
+13
+6
+2
+1
+d
+5
+v*0.5
+2
+dt
+1
+d
+4
+1
+2
+dt
+4
+1
+110
+'felicidades tu compra gano el 50% de descuento te llevas tus guantes por ',dt,' muchas gracias por tu compra'
+13
+1

@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'DIGITE SU NOMBRE Y EL DE SU PAREJA'
+5
+1
+15
+NOMBRE1,NOMBRE2
+4
+1
+32
+'mi edad y la edad de su pareja'
+5
+1
+7
+edm,edp
+7
+0
+1
+8
+edm>=edp
+4
+1
+33
+NOMBRE2 ,' es mayor que', NOMBRE1
+13
+4
+1
+30
+NOMBRE1 ,' es menor,' ,NOMBRE2
+13
+1

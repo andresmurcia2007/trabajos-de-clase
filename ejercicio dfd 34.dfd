@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+122
+'señor usuario digite la talla de sus tenis  adquiridos y se le hara un descuento el 50% si estan aprobados para el mismo'
+4
+1
+106
+'cabe recordar que los zapatos menores de la talla 40 tienen un precio de 50000 y los mayores a 40 100000'
+5
+1
+1
+t
+7
+0
+1
+4
+t<40
+6
+2
+2
+vz
+10
+100000*0.5
+2
+dt
+2
+vz
+4
+1
+2
+dt
+4
+1
+110
+'felicidades tu compra gano el 50% de descuento te llevas tus guantes por ',dt,' muchas gracias por tu compra'
+13
+6
+2
+2
+vz
+9
+50000*0.5
+2
+dt
+2
+vz
+4
+1
+2
+dt
+4
+1
+110
+'felicidades tu compra gano el 50% de descuento te llevas tus guantes por ',dt,' muchas gracias por tu compra'
+13
+4
+1
+134
+'muchas gracias disculpe los inconvenientes califique nuestro servicio libremente califique nuestros servicios en una escala de 1 a 5'
+5
+1
+2
+ca
+7
+0
+1
+4
+ca>3
+4
+1
+117
+'lamentamos si nuestros servicios no lo hicieron sentir satisfecho gracias por su calificacion y aporte a la mejoria'
+13
+4
+1
+91
+'gracias por aporta su opinion y a la mejoria de nuestros servicios que tenga un feliz dia'
+13
+1

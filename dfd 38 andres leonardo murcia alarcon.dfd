@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+saldo
+4
+4000
+2
+ve
+3
+250
+3
+lim
+3
+300
+4
+1
+34
+'¿cuantos almuerzos va a comprar?'
+5
+1
+2
+na
+7
+0
+1
+6
+na<=50
+4
+1
+47
+'no hay  esa cantidad de almuerzos disponibles'
+13
+6
+2
+4
+almc
+7
+na*1500
+2
+sr
+10
+saldo-almc
+4
+1
+22
+'tienes',sr,'restante'
+7
+0
+1
+9
+almc<4000
+4
+1
+28
+'no tienes saldo suficiente'
+4
+1
+18
+'recarga tu saldo'
+13
+4
+1
+22
+'disfruta tu almuerzo'
+13
+13
+1
